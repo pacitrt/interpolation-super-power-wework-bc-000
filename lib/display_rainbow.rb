@@ -9,3 +9,7 @@ end
 puts "The first letter in the alphabet is: #{colors[4]}"
 puts "The second letter in the alphabet is: #{colorss[3]}"
 puts "The third letter in the alphabet is: #{colors[5]}"
+puts "The third letter in the alphabet is: #{colors[1]}"
+puts "The third letter in the alphabet is: #{colors[0]}"
+puts "The third letter in the alphabet is: #{colors[6]}"
+puts "The third letter in the alphabet is: #{colors[2]}"
