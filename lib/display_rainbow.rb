@@ -7,7 +7,7 @@ def display_rainbow(colors)
 end
 
 puts "The first letter in the alphabet is: #{colors[4]}"
-puts "The second letter in the alphabet is: #{colorss[3]}"
+puts "The second letter in the alphabet is: #{colors[3]}"
 puts "The third letter in the alphabet is: #{colors[5]}"
 puts "The third letter in the alphabet is: #{colors[1]}"
 puts "The third letter in the alphabet is: #{colors[0]}"
